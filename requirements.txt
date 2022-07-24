@@ -1,0 +1,11 @@
+#######################################################################################################################
+#
+# Requirements used for the Domino attack simulation for Donner ("Breaking And Fixing UTXO-Based Virtual Channels")
+#
+# Install with
+# pip install -r requirements.txt
+#
+#######################################################################################################################
+
+networkx
+pandas
